@@ -1,0 +1,3 @@
+>>cant get accuracy over 88%
+>>dont know the science behind
+>>try with NN same data
